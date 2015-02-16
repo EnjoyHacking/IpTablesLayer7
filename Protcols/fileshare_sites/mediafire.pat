@@ -1,0 +1,2 @@
+mediafire
+^.+(mediafire.com).*$

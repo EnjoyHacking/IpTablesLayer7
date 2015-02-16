@@ -1,0 +1,2 @@
+depositfiles
+^.+(depositfiles.com).*$
